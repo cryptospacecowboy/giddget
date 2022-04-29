@@ -3,7 +3,7 @@ A Giddy Price Widget for iOS
 
 You can find the setup guide on [GiveSendGiddy.com](https://www.givesendgiddy.com/giddy-widget). 
 
-Learn more about Giddy DeFi by visiting their [official site](https://giddy.co), and [join the waitlist](app.giddy.co/share/sc1enL7U) for the mobile app coming soon!
+Learn more about Giddy DeFi by visiting their [official site](https://giddy.co), and [join the waitlist](https://app.giddy.co/share/sc1enL7U) for the mobile app coming soon!
 
 ![Giddget](https://repository-images.githubusercontent.com/486780309/2783dc4e-0bb7-4e13-a379-54988a9a64ad "Giddget")
 
